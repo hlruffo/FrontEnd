@@ -1,2 +1,2 @@
-# Vschool
+# FrontEnd
  Coding bootcamp
