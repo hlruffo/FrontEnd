@@ -1,0 +1,104 @@
+body{
+  background-color: gray;
+    }
+
+.franca{
+  height: 200px;
+  width: 500px;
+  
+}
+.frone{
+   display: inline-block;
+  background-color: #002495;
+  height: 100px;
+  width: 55px;
+  margin: 0;
+}
+.frtwo {
+  display: inline-block;
+  background-color: #fff;
+  position: relative;
+  right:4px;
+  height: 100px;
+  width: 55px;
+  margin: 0;
+}
+.frthree {
+  display: inline-block;
+  background-color: #ff0000;
+  position: relative;
+  right:8px;
+  height: 100px;
+  width: 55px;
+  margin: 0;
+}
+.alemanha{
+  height: 400px;
+  width: 1000px;
+  margin: 0 auto;
+  position: relative;
+  bottom:105px;
+  left:170px;
+  
+}
+
+.alone{
+ display: inline-block;
+  background-color: #000000;
+  height: 33px;
+  width: 165px;
+  margin: 0;
+}
+.altwo{
+ display: inline-block;
+ position: relative;
+ right:169px;
+ top:33px;
+ background-color: #DE0002;
+  height: 33px;
+  width: 165px;
+  margin: 0;
+}
+.althree{
+  display: inline-block;
+  position:relative;
+  right:338px;
+  top:66px;
+  background-color: #FFCE00;
+  height:33px;
+  width:165px;
+  margin:0;
+}
+.madagascar{
+  height: 400px;
+  width: 1000px;
+  margin: 0 auto;
+  position: relative;
+  bottom:36px;
+  left:170px;
+}
+.mdone{
+  display: inline-block;
+  background-color:#FFFFFF;
+  height:100px;
+  width:55px;
+  margin:0 auto;
+  
+}
+.mdtwo{
+  display: inline-block;
+  background-color:#FC3E32;
+  height:50px;
+  width:110px;
+  position:relative;
+  left:55px;
+}
+.mdthree{
+  display: inline-block;
+  background-color:#007E39;
+  height:50px;
+  width:110px;
+  position:relative;
+  left:55px;
+  bottom:4px;
+}
