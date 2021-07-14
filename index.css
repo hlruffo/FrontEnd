@@ -1,4 +1,24 @@
-div .coffee{
-    background-color: aqua;
+* {
+    box-sizing: border-box; 
+    font-size: 0px;
+}
+
+.square {
+    display
+    height: 50px;
+    width: 50px;
+    background-color:#F5C6D6;
+  }
+    margin: 10px;
+}
+.space-one {
+    display: inline-block;
     
+}
+.space-two{
+    display: inline-block;
+}
+.box-model {
+    height: 350px;
+    width: 450px;
 }
