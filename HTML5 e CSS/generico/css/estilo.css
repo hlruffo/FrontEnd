@@ -1,0 +1,108 @@
+
+/*
+box sizin e cantos arredondados
+
+.caixa{
+	width: 400px;
+	background: #dedede url(../imagens/fundo-arredondamento.png) repeat-y;
+}
+
+.caixa h2 {
+	padding:  10px 20px 0px 20px;
+	background: url(../imagens/topo2.png) no-repeat left top;
+}
+
+.caixa p {
+	padding: 0 20px;
+	margin-bottom: 0;
+}
+
+.caixa .last{
+	
+	background: url(../imagens/baixo2.png) no-repeat left bottom;
+	width: 400px;
+	height: 24px;
+}
+.caixa h2{
+	padding:  10px 20px 0px 20px;
+}
+.caixa p{
+	padding:  0px 20px 20px 20px;
+	background: url(../imagens/baixo1.png) no-repeat left bottom;
+}
+/*degrade e transp */
+/*
+#caixa {
+	width: 300px;
+	height: 300px;
+	/*background: url(../imagens/camera.png);*/
+	/*background: linear-gradient(45deg, red , green, yellow,green, red);*/
+	/*background: radial-gradient(red, green);
+}
+
+#caixa h1{
+	/*background: rgba(255, 255, 255, 0.5);
+
+}
+*/
+/*sombras*/
+/*#caixa {
+	width: 300px;
+	height: 300px;
+	padding: 8px;
+	margin: 20px;
+	background: #009670;
+	box-shadow: 20px 20px 5px 3px rgba(0, 0, 0, 0.5) ;
+/* parametros -> dist hor e vert, blur, espalhamento e cor */
+/*	}
+
+#caixa h1{
+	color: white;
+	text-shadow: 20px 20px 5px rgba(0, 0, 0, 0.5);
+/* opacidade usar cor rgba */
+
+/* animações */ 
+/*
+@keyframes anima-caixa{
+	from{
+		background: red;
+		border-radius: 0px;
+		top: 0px;
+		left: 0px;
+	}
+	to{
+		background: yellow;
+		border-radius: 300px;
+		top: 200px;
+		left: 200px;
+	}
+}
+
+#caixa{
+	background: red;
+	width: 300px;
+	height: 300px;
+	position:  relative;
+	animation:  anima-caixa 5s 3s 2 alternate;
+	/*animation-name:  anima-caixa;
+	animation-duration: 5s;
+	animation-delay: 3s;
+	animation-iteration-count: 2;
+	animation-direction: alternate;*/
+
+
+/* transição */
+
+
+#caixa{
+	background: orange;
+	width: 300px;
+	height: 300px;
+}
+#caixa:hover{
+	width: 400px;
+	height: 300px;
+	background: yellow;
+	/*transition: width 3s, background 3s;*/
+	transition: all 3s;
+}
